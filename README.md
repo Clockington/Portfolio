@@ -1,2 +1,2 @@
 # StaticWebsiteTest
-Test for static website hosting using Firebase and Angular
+Test for static website hosting using Next.JS and Cloudflare
