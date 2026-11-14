@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<h1>About me</h1>
+<article><h2>Achievements & Certifications</h2></article>
+<article><h2>Current Projects</h2></article>
+<article><h2>Skills</h2></article>
+<article><h2>Education</h2></article>
+<article><h2>Work Experience</h2></article>
